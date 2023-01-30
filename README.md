@@ -3,6 +3,7 @@ LeetCode Companion App - Leetcode Trainer - Coding Interview Prep Simplified
 ### To-Do
 - [x] Connected database to frontend
 - [x] Connected main routes/pages
+- [x] Created Home page
 - [ ] Create dashboard
 - [ ] Update/delete in submissions
 - [ ] Make graphs and charts
