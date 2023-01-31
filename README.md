@@ -15,7 +15,6 @@ LeetCode Companion App - Leetcode Trainer
 - [x] Created Home page
 - [ ] Create dashboard
 - [ ] Update/delete in submissions
-- [ ] Make graphs and charts
-- [ ] User account sign-in
-- [ ] Gauges for readiness on dashboard
+- [ ] Scrape LeetCode Question of the Day
+- [ ] User account sign-in/profile management
 - [ ] Make it look good
