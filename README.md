@@ -1,5 +1,12 @@
 # ChuCode
 LeetCode Companion App - Leetcode Trainer - Coding Interview Prep Simplified
+### Skills
+* MongoDB
+* Express JS
+* React JS
+* Node JS
+* CSS
+* HTML
 ## Home
 ![](home.jpg)
 ### To-Do
