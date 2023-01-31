@@ -1,5 +1,6 @@
 # ChuCode
 LeetCode Companion App - Leetcode Trainer - Coding Interview Prep Simplified
+## Home
 ![](home.jpg)
 ### To-Do
 - [x] Connected database to frontend
