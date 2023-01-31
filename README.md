@@ -1,5 +1,5 @@
 # ChuCode
-LeetCode Companion App - Leetcode Trainer - Coding Interview Prep Simplified
+LeetCode Companion App - Leetcode Trainer
 ### Skills
 * MongoDB
 * Express JS
