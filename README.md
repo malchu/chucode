@@ -10,7 +10,7 @@ LeetCode Companion App - Leetcode Trainer
 ## Home
 ![](home.jpg)
 ### To-Do
-- [x] Connected database to frontend
+- [x] Connected backend to frontend
 - [x] Connected main routes/pages
 - [x] Created Home page
 - [ ] Create dashboard
