@@ -2,7 +2,7 @@ from collections import defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]: # type: ignore
-        strMap = defaultdict(list)
+        strMap = defaultdict(list) # defaultdict(lambda: [])
 
         for s in strs:
             letterCount = [0] * 26
