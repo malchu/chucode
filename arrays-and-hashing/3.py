@@ -1,6 +1,9 @@
+from collections import defaultdict
+
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]: # type: ignore
-        targetMap = {}
+        targetMap = defaultdict()
         res = [0, 0]
 
         for i in range(0, len(nums)):
