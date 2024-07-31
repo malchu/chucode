@@ -7,4 +7,4 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] isAnagram - Counter()
 [x] twoSum - defaultdict()
 [x] groupAnagrams - ord() and tuple()
-[x] topKFrequent -  
+[x] topKFrequent - index the frequencies 
