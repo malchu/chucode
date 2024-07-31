@@ -11,3 +11,4 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] encode&decode - append len(s)
 [x] productExceptSelf - product of left*right
 [x] isValidSudoku - hash sets, mod
+[x] longestConsecutive - 
