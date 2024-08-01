@@ -12,3 +12,9 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] productExceptSelf - product of left*right
 [x] isValidSudoku - hash sets, mod
 [x] longestConsecutive - hash, n-1/n+1 => lower/upper bounds
+
+#### More Practice
+[x] getConcatenation - +
+[x] replaceElements - max()
+[x] isSubsequence - 2 ptrs
+[x] lengthOfLastWord - split()
