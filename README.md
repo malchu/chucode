@@ -19,3 +19,5 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] isSubsequence - 2 ptrs
 [x] lengthOfLastWord - split()
 [x] longestCommonPrefix - just check em bro
+[x] pascalsTriangle - intuition bro
+[x] removeElement - 
