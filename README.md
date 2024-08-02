@@ -20,4 +20,4 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] lengthOfLastWord - split()
 [x] longestCommonPrefix - just check em bro
 [x] pascalsTriangle - intuition bro
-[x] removeElement - 
+[x] removeElement - inverse swap
