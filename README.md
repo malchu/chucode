@@ -18,3 +18,4 @@ The LeetCode practice problems I do for technical interviews. I use Neetcode.io 
 [x] replaceElements - max()
 [x] isSubsequence - 2 ptrs
 [x] lengthOfLastWord - split()
+[x] longestCommonPrefix - just check em bro
